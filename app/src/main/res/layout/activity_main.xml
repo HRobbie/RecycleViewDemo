@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+  >
+    <Button
+        android:id="@+id/btn_base"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="垂直的recycleview"
+        />
+
+    <Button
+        android:id="@+id/btn_grid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="网格recycleview"
+        />
+    <Button
+        android:id="@+id/btn_four"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="四级联动"
+        />
+
+    <Button
+        android:id="@+id/btn_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="带刷新的recyclerView"
+        />
+
+    <Button
+        android:id="@+id/btn_staggered"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="瀑布流的recyclerview"
+        />
+    <Button
+        android:id="@+id/btn_different"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="多项目的recyerview"
+        />
+</LinearLayout>
