@@ -1,5 +1,17 @@
 [
     {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
         "merged": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_text_material.xml",
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
@@ -8,8 +20,20 @@
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
         "merged": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
         "merged": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
@@ -28,6 +52,10 @@
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
         "merged": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
@@ -36,7 +64,19 @@
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
         "merged": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
     }
 ]

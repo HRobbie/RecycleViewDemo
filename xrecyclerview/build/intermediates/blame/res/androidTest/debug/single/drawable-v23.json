@@ -2,5 +2,9 @@
     {
         "merged": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v23\\abc_control_background_material.xml",
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]

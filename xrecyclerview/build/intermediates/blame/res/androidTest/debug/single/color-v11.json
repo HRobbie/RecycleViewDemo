@@ -1,10 +1,18 @@
 [
     {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

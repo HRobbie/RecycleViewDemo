@@ -2,5 +2,9 @@
     {
         "merged": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16\\notification_template_custom_big.xml",
         "source": "D:\\code\\twt\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\code\\Android7\\3\\RecycleViewDemo\\xrecyclerview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
     }
 ]

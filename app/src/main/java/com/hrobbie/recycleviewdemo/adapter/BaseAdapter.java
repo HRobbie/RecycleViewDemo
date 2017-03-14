@@ -56,7 +56,7 @@ public class BaseAdapter extends RecyclerView.Adapter<BaseAdapter.MyViewHolder> 
             holder.itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    int pos = holder.getLayoutPosition();
+                    int pos = holder.getLayoutPosition()-1;//默认是第一个开始
                     mOnItemClickListener.onItemClick(holder.itemView, pos);
                 }
             });
@@ -67,7 +67,7 @@ public class BaseAdapter extends RecyclerView.Adapter<BaseAdapter.MyViewHolder> 
             @Override
             public boolean onLongClick(View v)
             {
-                int pos = holder.getLayoutPosition();
+                int pos = holder.getLayoutPosition()-1;//默认是第一个开始
                 mOnItemClickListener.onItemLongClick(holder.itemView, pos);
                 return true;//返回true可以屏蔽点击监听的响应
             }
